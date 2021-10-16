@@ -1,0 +1,17 @@
+{
+  "name": "pgall-scraper",
+  "version": "0.1.0",
+  "description": "프갤 글 목록을 수집",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "개좆밥",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "jsdom": "^18.0.0",
+    "parse5": "^6.0.1"
+  }
+}
